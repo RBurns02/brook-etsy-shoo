@@ -464,10 +464,10 @@ ul { list-style: none; }
 }
 .prod-2 {
   background:
-    linear-gradient(160deg, #fef3e8 0%, #f8d8b0 35%, #f0b878 70%, #e89848 100%);
+    linear-gradient(160deg, #fde8f0 0%, #f4b8d0 35%, #e080a8 70%, #c85888 100%);
 }
 .prod-2::before {
-  content: '🌻';
+  content: '🍓';
   position: absolute;
   top: 50%; left: 50%;
   transform: translate(-50%,-50%);
