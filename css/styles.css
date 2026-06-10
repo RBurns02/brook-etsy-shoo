@@ -464,7 +464,18 @@ ul { list-style: none; }
 }
 .prod-2 {
   background:
-    linear-gradient(160deg, #fde8f0 0%, #f4b8d0 35%, #e080a8 70%, #c85888 100%);
+    linear-gradient(160deg, #fff0f0 0%, #fcc8c8 35%, #f08888 70%, #d84848 100%);
+  position: relative;
+}
+.prod-2::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    0deg, transparent, transparent 10px, rgba(255,255,255,.15) 10px, rgba(255,255,255,.15) 11px
+  ), repeating-linear-gradient(
+    90deg, transparent, transparent 10px, rgba(255,255,255,.15) 10px, rgba(255,255,255,.15) 11px
+  );
 }
 .prod-2::before {
   content: '🍓';
@@ -472,7 +483,7 @@ ul { list-style: none; }
   top: 50%; left: 50%;
   transform: translate(-50%,-50%);
   font-size: 3rem;
-  opacity: .6;
+  z-index: 1;
 }
 .prod-3 {
   background:
