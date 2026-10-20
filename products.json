@@ -1,0 +1,74 @@
+[
+  {
+    "id": "src-001",
+    "name": "Ruffle Hem Floral Dress",
+    "price": 48.00,
+    "description": "A dreamy floral midi dress with a delicate ruffle hem. Lightweight, flowy fabric perfect for warm days and special occasions.",
+    "category": "Dresses",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Blush Floral", "Cream Floral"],
+    "badge": "New Arrival",
+    "emoji": "🌸",
+    "gradient": "linear-gradient(160deg, #fde8f0 0%, #f4b8d0 50%, #e080a8 100%)"
+  },
+  {
+    "id": "src-002",
+    "name": "Soft Knit Cardigan",
+    "price": 54.00,
+    "description": "An oversized cozy cardigan in a buttery soft knit. The perfect layering piece for any season.",
+    "category": "Tops",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Dusty Rose", "Ivory", "Sage"],
+    "badge": "Best Seller",
+    "emoji": "🧶",
+    "gradient": "linear-gradient(160deg, #f5e8f0 0%, #e4c0d4 50%, #c890b0 100%)"
+  },
+  {
+    "id": "src-003",
+    "name": "High-Rise Linen Pants",
+    "price": 42.00,
+    "description": "Relaxed high-rise linen pants with a wide leg and elastic waistband. Effortlessly chic and comfortable all day.",
+    "category": "Bottoms",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Natural", "Blush", "White"],
+    "badge": "",
+    "emoji": "👖",
+    "gradient": "linear-gradient(160deg, #f8f0e8 0%, #e8d8c0 50%, #c8b090 100%)"
+  },
+  {
+    "id": "src-004",
+    "name": "Smocked Puff Sleeve Top",
+    "price": 36.00,
+    "description": "A sweet smocked top with puff sleeves and a relaxed fit. Pairs beautifully with high-waisted bottoms.",
+    "category": "Tops",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["White", "Lavender", "Dusty Rose"],
+    "badge": "Popular",
+    "emoji": "✨",
+    "gradient": "linear-gradient(160deg, #f0e8f8 0%, #d8c0f0 50%, #b090d8 100%)"
+  },
+  {
+    "id": "src-005",
+    "name": "Mini Pleated Skirt",
+    "price": 34.00,
+    "description": "A cute pleated mini skirt with a comfortable elastic waistband. Dress it up or down for any vibe.",
+    "category": "Bottoms",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Blush", "Ivory", "Lilac"],
+    "badge": "",
+    "emoji": "🎀",
+    "gradient": "linear-gradient(160deg, #fdf0f8 0%, #f0c8e0 50%, #e098c0 100%)"
+  },
+  {
+    "id": "src-006",
+    "name": "Wrap Maxi Dress",
+    "price": 58.00,
+    "description": "A classic wrap maxi dress with adjustable tie waist and a flattering silhouette for every body type.",
+    "category": "Dresses",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Dusty Rose", "Sage Green", "Cream"],
+    "badge": "Fan Favorite",
+    "emoji": "🌿",
+    "gradient": "linear-gradient(160deg, #e8f0e8 0%, #c0d8c0 50%, #90b890 100%)"
+  }
+]
